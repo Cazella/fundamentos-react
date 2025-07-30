@@ -2,13 +2,11 @@ import { Flex } from "@chakra-ui/react"
 
 export default function Login(){
     return(
-        <Flex bg="black">
-            <Flex>
-                <div>
-                    <h1>Account Login</h1>
-                    <p>If you are already a member you can login whith your email adress</p>
-                </div>
-            </Flex>
+        <Flex w="100vw" h="100vh">
+        <Flex w="50%" bg="blue.400">
+        <Flex w="50%" bg="white">
+        </Flex>
+        </Flex>
         </Flex>
     )
 }

@@ -14,6 +14,4 @@ export const themeConfig = defineConfig({
       colors: {},
     },
   },
-
-
 })
